@@ -5,7 +5,7 @@
 
 <br/>
 
-<img src="assets/profile.png" width="150" style="border-radius:50%;" alt="Manohar Jolla"/>
+<img src="profile.png" width="150" style="border-radius:50%;" alt="Manohar Jolla"/>
 
 <br/><br/>
 
